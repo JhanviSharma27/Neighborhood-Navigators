@@ -1,5 +1,5 @@
 # Neighborhood-Navigators
-Description: Best neighborhood to live in if you are a superhero in Pittsburgh
+Description: The best Pittsburgh neighborhood if you are a superhero
 
 Team Members:
 Seamus Quigley sjq6@pitt.edu
